@@ -8,7 +8,7 @@ Follow these simple steps to get ShopWise up and running on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/shopwise.git
+   git clone https://github.com/charvijain12/shopwise.git
    ```
 
 2. **Navigate to the project directory:**
